@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our eastertest slide!"
 ---
-This is eastertest
+This is my awesome slide
 Use the left arrow to go back!
